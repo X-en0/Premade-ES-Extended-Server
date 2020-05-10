@@ -60,6 +60,7 @@ echo Server starter by Xeno.
 echo -
 start C:\MyFXServer\FXServer.exe +exec server.cfg
 exit
+```
 
 ---
 
