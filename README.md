@@ -2,7 +2,7 @@
  Premade ES Extended Server with working Kashacters
 
  # How to Start
- ---
+
  1. Drag everything from the zip into a folder of your choice. I reccommend on your C Drive
  
  2. Right click the sevrer.zip and click `extract here`
@@ -61,3 +61,7 @@ echo -
 start C:\MyFXServer\FXServer.exe +exec server.cfg
 exit
 
+---
+
+# If you need any help reach out on my Discord:
+Nano#5316
